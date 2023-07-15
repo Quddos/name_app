@@ -1,0 +1,9 @@
+C:/xampp/htdocs/name_app/build/windows/runner/Debug/data/icudtl.dat
+C:/xampp/htdocs/name_app/build/windows/runner/Debug/flutter_windows.dll
+C:/xampp/htdocs/name_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/xampp/htdocs/name_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/xampp/htdocs/name_app/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/xampp/htdocs/name_app/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/xampp/htdocs/name_app/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/xampp/htdocs/name_app/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/xampp/htdocs/name_app/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

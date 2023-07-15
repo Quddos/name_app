@@ -1,0 +1,10 @@
+C:/xampp/htdocs/name_app/build/windows/CMakeFiles/INSTALL.dir
+C:/xampp/htdocs/name_app/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/xampp/htdocs/name_app/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/xampp/htdocs/name_app/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/xampp/htdocs/name_app/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/xampp/htdocs/name_app/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/xampp/htdocs/name_app/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/xampp/htdocs/name_app/build/windows/runner/CMakeFiles/namer_app.dir
+C:/xampp/htdocs/name_app/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/xampp/htdocs/name_app/build/windows/runner/CMakeFiles/ALL_BUILD.dir
